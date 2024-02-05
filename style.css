@@ -1,0 +1,26 @@
+.header-container {
+    background-color: rgb(0, 60, 134);
+    color: #FFFFFF;
+    padding: 7%;
+    position: relative;
+  }
+  
+  .logo-img {
+    position: absolute;
+    top: 10px;
+    left: 5px;
+    width: 15%;
+  }
+  
+  .main-container {
+    margin-top: 20px;
+  }
+
+  #h1{
+    margin-top: 100px;
+  }
+  
+
+
+
+
